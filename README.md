@@ -106,7 +106,6 @@ uid=db2inst1
 pwd=your-db2-password
 ```
 
-⚠️ The `.env` file should **not** be committed to git.
 
 ---
 
@@ -146,3 +145,4 @@ You can easily adapt it to:
 - Other LLMs (Claude, Gemini, Llama-3, Watsonx.ai)
 
 If you're looking to build a grounded, local-first RAG workflow with full control over embedding, chunking, vector search, and LLM output, this project provides a solid reference implementation.
+
