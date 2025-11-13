@@ -1,0 +1,15 @@
+jupyter
+notebook
+ipykernel
+openai
+python-dotenv
+rich
+nbformat
+pandas
+matplotlib
+ibm_db
+itables
+scikit-learn
+numpy
+spacy
+trafilatura
